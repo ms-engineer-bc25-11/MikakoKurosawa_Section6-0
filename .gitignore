@@ -1,0 +1,4 @@
+# npm関連
+node_modules/
+
+.DS_store
