@@ -1,0 +1,26 @@
+{
+  "name": "section6",
+  "version": "1.0.0",
+  "description": "<<<<<<< HEAD # Section6 - Cording Convention Task # 課題説明　MDNメモ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ms-engineer-bc25-11/MikakoKurosawa_Section6-0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ms-engineer-bc25-11/MikakoKurosawa_Section6-0/issues"
+  },
+  "homepage": "https://github.com/ms-engineer-bc25-11/MikakoKurosawa_Section6-0#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.39.2",
+    "eslint": "^9.39.2",
+    "globals": "^17.2.0"
+  }
+}
